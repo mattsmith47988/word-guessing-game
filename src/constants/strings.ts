@@ -1,6 +1,6 @@
-export const GAME_TITLE = 'GAME'
+export const GAME_TITLE = 'Whoadie'
 
-export const WIN_MESSAGES = ['poggers', 'fuck yeah', 'big dick energy']
+export const WIN_MESSAGES = ['poggers', 'fuck yeah', 'big dick energy','smrt', 'strong brain thoughts']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const ABOUT_GAME_MESSAGE = 'About this game'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
